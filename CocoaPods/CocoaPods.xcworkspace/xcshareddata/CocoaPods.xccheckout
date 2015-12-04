@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F636ACD7-A646-4840-8125-8179EB6A84AB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CocoaPods</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C07D5B3E5DC37EB02DBD90F14A21DD6007FCA090</key>
+		<string>https://github.com/feng1688008/TestGitHub.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CocoaPods/CocoaPods.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C07D5B3E5DC37EB02DBD90F14A21DD6007FCA090</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/feng1688008/TestGitHub.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C07D5B3E5DC37EB02DBD90F14A21DD6007FCA090</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C07D5B3E5DC37EB02DBD90F14A21DD6007FCA090</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TestGitHub</string>
+		</dict>
+	</array>
+</dict>
+</plist>
